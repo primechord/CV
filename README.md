@@ -11,14 +11,17 @@ QA Automation Engineer (Kotlin)
 | <a href="https://t.me/nedoseykin">Telegram</a>
 </div>
 
-### Разрешение на работу
+### Разрешения на работу
 
 * Россия
 * Армения
 
 ## Кратко обо мне
 
-* FIXME
+Преимущественно занимался автоматизацией тестирования Android на Kotlin.  
+На данный момент развиваю статический анализ в Android-проекте Яндекс Еды.  
+Есть опыт менторинга в ручном и автоматизированном тестировании.  
+Есть несколько публикаций на Хабре.  
 
 ## Публикации и проекты
 
@@ -90,7 +93,7 @@ QA Automation Engineer (Kotlin)
 `Kotlin` `Allure` `JUnit` `Retrofit` `Gradle` `Gitlab CI` `Код-ревью` `QA` `Kaspresso` `Espresso`
 
 ### Языки
-`Kotlin` `⏳English — A2`
+`Kotlin` `👷🏻English — A2`
 
 <!-- ### Footer
 
