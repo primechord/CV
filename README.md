@@ -6,6 +6,8 @@ title: Nikolay Nedoseykin's CV
 
 QA Automation Engineer (Kotlin)
 
+### Контакты
+
 <div id="webaddress">
 <a href = "mailto: primechord@ya.ru">Email</a>
 | <a href="https://t.me/nedoseykin">Telegram</a>
