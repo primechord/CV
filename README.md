@@ -92,6 +92,8 @@ QA Automation Engineer (Kotlin)
 КОРУС Консалтинг СНГ — Младший тестировщик  
 `Октябрь 2018 — Июнь 2019`
 
+    Ручное тестирование Web-приложений
+
 ### Навыки
 `Kotlin` `Allure` `JUnit` `Retrofit` `Gradle` `Gitlab CI` `Код-ревью` `QA` `Kaspresso` `Espresso`
 
