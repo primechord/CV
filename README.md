@@ -7,6 +7,7 @@ QA Automation Engineer (Kotlin)
 <div id="webaddress">
 <a href = "mailto: primechord@ya.ru">Email</a>
 | <a href="https://t.me/primechord">Telegram</a>
+| <a href="https://www.linkedin.com/in/primechord">LinkedIn</a>
 </div>
 
 ## Кратко обо мне
