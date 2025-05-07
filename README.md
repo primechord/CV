@@ -10,7 +10,7 @@ QA Automation Engineer (Kotlin)
 | <a href="https://www.linkedin.com/in/primechord">LinkedIn</a>
 </div>
 
-## Кратко обо мне
+## Summary
 
 Преимущественно занимался автоматизацией тестирования на Kotlin.  
 Работал в Мобильной платформенной команде Яндекс Еды  
