@@ -1,106 +1,119 @@
-# Недосейкин Николай
+# Nikolay Nedoseykin
 
 Software Engineer in Test / SDET (Kotlin)
 
-### Контакты
+### Contact
 
 <div id="webaddress">
-<a href = "mailto: primechord@ya.ru">Email</a>
+<a href="mailto:primechord@ya.ru">Email</a>
 | <a href="https://t.me/primechord">Telegram</a>
 | <a href="https://www.linkedin.com/in/primechord">LinkedIn</a>
 </div>
 
 ## Summary
 
-Software Engineer in Test с 7+ годами опыта в QA и автоматизации.  
-Специализируюсь на Kotlin и практиках качества:  
-автоматизации тестирования, Quality Gates, CI/CD, статическом анализе и улучшении продуктового кода.  
-Работал с Android, backend и IntelliJ Platform.  
-В Яндексе развивал автоматизацию мобильной платформы Яндекс Еды,  
-сейчас отвечаю за QA и CI-процессы в AI-first продуктовой компании.  
-Выступал на HeisenBug 2024/2025, пишу технические статьи. 
+Software Engineer in Test focused on engineering productivity  
+with 7+ years of experience in QA and test automation.  
+Specialized in Kotlin and software quality practices,  
+including test automation, Quality Gates, CI/CD, static analysis, and improving production code.  
+Experienced with Android, backend systems, and the IntelliJ Platform.  
+At Yandex, worked on automation for the Yandex Eats mobile platform.  
+Currently responsible for QA and CI processes at an AI-first product company.  
+Speaker at HeisenBug 2024 and 2025 and author of technical articles.
 
-## Публикации и выступления
+## Publications & Talks
 
 * [HABR](https://habr.com/ru/users/primechord/publications/articles/)
 * [HEISENBUG 2024](https://youtu.be/16GK6UWpCis)
 * [HEISENBUG 2025](https://youtu.be/C2QC_5uHaxg)
 * [GITHUB](https://github.com/primechord)
 
-## Опыт работы
+## Experience
 
 Explyt — Software Engineer in Test  
-`Ноябрь 2025 — настоящее время`
+`November 2025 — Present`
 
-    • Единственный QA-инженер в AI-first компании: 
-    отвечаю за QA и CI-процессы, участвую в догфудинге AI-агента
-    • Создал с нуля UI-тесты IntelliJ-плагина 
-    и интеграционные тесты критичных backend-сервисов с изоляцией зависимостей через Testcontainers; 
-    передал поддержку тестов разработчикам
-    • Развиваю Quality Gates: внедряю Detekt и ArchUnit проверки, 
-    пишу собственные правила и исправляю найденные проблемы в продуктовом коде
-    • Развиваю GitHub Actions и автоматические проверки для продуктовой разработки: 
-    валидацию строковых ресурсов, контроль размера артефактов и др
-    • Провожу код-ревью автотестов и продуктового кода
-    • Триаж пользовательских багрепортов
-    • Создал SKILLs для AI-агента со сценариями код-ревью и триажа
+```
+• Sole QA Engineer at an AI-first company:
+responsible for QA and CI processes and involved in dogfooding the AI agent
+• Built UI tests for an IntelliJ plugin from scratch 
+and integration tests for critical backend services, with dependency isolation using Testcontainers;
+transferred test maintenance to developers
+• Develop Quality Gates by introducing Detekt and ArchUnit checks,
+writing custom rules, and fixing issues identified in production code
+• Develop GitHub Actions workflows and automated checks for product development,
+including string resource validation, artifact size checks, and more
+• Conduct code reviews for both automated tests and production code
+• Triage user bug reports
+• Created SKILLs for the AI agent covering code review and bug triage processes
+```
 
-Яндекс — Старший инженер по автоматизации тестирования  
-`Март 2022 — Апрель 2025`
-    
-    Яндекс:
-    • Разрабатывал, улучшал UI-тесты на Android и e2e-тесты backend-сервисов, повышая их скорость и стабильность
-    • Повышал качество кода с применением статических анализаторов (Detekt, IDEA) в автоматизации тестирования. 
-    Сократил время до мержа всех PR в репозитории автотестов на ~30%.  
-    • Повышал качество кода с применением статических анализаторов в продуктовом коде. 
-    Вносил исправления в продуктовый код.  
-    • Разрабатывал новые правила для Detekt
-    • Выстраивал Quality Gates и дорабатывал продуктовые пайплайны
-    • Провёл 10+ технических интервью на позицию AQA
+Yandex — Senior Test Automation Engineer  
+`March 2022 — April 2025`
 
-    Продукт Деливери до интеграции с Яндексом:
-    • Выполнил миграцию мобильных тестов в Allure TestOps, доработав CI
-    • Ревьюил PR с автотестами
-    • Обучал коллег написанию UI-тестов на Android
-    • Создавал и поддерживал функциональные Android-тесты
+```
+Yandex:
+• Developed and improved Android UI tests and end-to-end tests for backend services,
+increasing their speed and stability
+• Improved code quality in test automation using static analyzers (Detekt, IDEA inspections).
+Reduced the time to merge PRs in the test automation repository by ~30%
+• Improved production code quality using static analysis
+and contributed fixes directly to production code
+• Developed custom Detekt rules
+• Built and improved Quality Gates and product CI/CD pipelines
+• Conducted 10+ technical interviews for Test Automation Engineer positions
 
-АТОЛ Сигма — Инженер по автоматизации тестирования  
-`Март 2021 — Февраль 2022`
+Delivery Club before it was integrated into Yandex:
+• Migrated mobile tests to Allure TestOps and updated CI accordingly
+• Reviewed pull requests with automated tests
+• Trained colleagues in Android UI test development
+• Created and maintained functional Android tests
+```
 
-    • Создавал и поддерживал регрессионные Android-тесты
-    • Создавал проверки на уровнях БД и сети
-    • Поддерживал разработанный в компании Android раннер
-    • Внедрил Allure Report и расширил логирование
-    • Расширил обертки над Espresso и UiAutomator (Kotlin Extensions), что упростило написание тестов
-    • Использовал паттерны PageObject (DSL), Step, PageElement, Strategy и Proxy
-    • Решал проблемы с нестабильными тестами
-    и сокращал общее время прогона
-    • Сокращал техдолг и общее количество антипаттернов в проекте
-    • Ревьюил все изменения в автоматизации
+ATOL Sigma — Test Automation Engineer  
+`March 2021 — February 2022`
 
-    • Встроил тесты в GitLab CI пайплайн (yaml конфиг, Python и bash скрипты, Gradle таски)
-    с параметрами запуска, выполнением по расписанию и уведомлениями в мессенджер
-    • Настраивал окружение на Linux VM и поддерживал парк Android устройств
+```
+• Created and maintained regression tests for Android applications
+• Implemented database- and network-level checks
+• Maintained the company's custom Android test runner
+• Introduced Allure Report and enhanced test logging
+• Created Espresso and UiAutomator wrappers using Kotlin Extensions,
+simplifying test development
+• Applied Page Object (DSL), Step, Page Element, Strategy, and Proxy patterns
+• Addressed flaky tests and reduced overall test execution time
+• Reduced technical debt and the number of anti-patterns in the project
+• Reviewed all changes to the test automation codebase
 
-ЦРПТ — Инженер по тестированию  
-`Ноябрь 2019 — Ноябрь 2020`
+• Integrated tests into GitLab CI pipelines using YAML configuration,
+Python and Bash scripts, and Gradle tasks,
+with configurable run parameters, scheduled execution, and messenger notifications
+• Configured environments on Linux VMs and maintained a fleet of Android devices
+```
 
-    • Инициировал автоматизацию REST API
-    с возможностью тестировать разные окружения, сервисы через Retrofit
-    • Использовал кодогенерацию из Swagger/OAS
-    • Ревьюил все изменения в автоматизации
+CRPT — QA Engineer  
+`November 2019 — November 2020`
 
-КОРУС Консалтинг СНГ — Младший тестировщик  
-`Октябрь 2018 — Июнь 2019`  
+```
+• Initiated REST API test automation with support for 
+different environments and services using Retrofit
+• Used code generation based on Swagger/OAS specifications
+• Reviewed all changes to the test automation codebase
+```
 
-    Функциональное и регрессионное тестирование веб-приложений
+KORUS Consulting CIS — Junior QA Engineer  
+`October 2018 — June 2019`
 
-### Навыки
+```
+• Performed functional and regression testing of web applications
+```
+
+### Skills
 
 `Kotlin` `Allure` `JUnit` `Retrofit` `Kaspresso` `Espresso` `IntelliJ Platform`
 
 `Gradle` `GitLab CI` `GitHub Actions` `TeamCity` `Detekt`
 
-### Языки
+### Languages
 
 `English — B1+`
